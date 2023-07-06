@@ -11,3 +11,9 @@
 - > creates boilerplate with one list widget and one chart widget
 
 
+Teams channel tab
+
+some ideas:
+- [Microsoft Teams Dev Docs] (https://learn.microsoft.com/de-de/microsoftteams/platform/tabs/how-to/build-adaptive-card-tabs)
+- [Microsoft Teams Sample Tab with JS] (https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-channel-group-quickstart/js/src/components/Tab.js)
+- [Microsoft Teams Sample Tab with TS] (https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/main/samples/tab-channel-group-quickstart/ts/README.md)
