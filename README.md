@@ -24,3 +24,8 @@ some ideas:
 - this kanbanboard uses a fake REST API to create to-dos and tasks can´t be moved to backlog at the moment
 
 - research is needed to figure out if React Beautiful DnD can be implemented inside the Teams Toolkit or if there is a more useful alternative
+
+###Pomodoro Timer as a dashboard widget
+
+- [Samples] (https://reactjsexample.com/tag/pomodoro-timer/)
+  
