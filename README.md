@@ -28,4 +28,4 @@ some ideas:
 ###Pomodoro Timer as a dashboard widget
 
 - [Samples] (https://reactjsexample.com/tag/pomodoro-timer/)
-  
+- [Freshman Pomodoro Timer] (https://freshman.tech/pomodoro-timer/)
