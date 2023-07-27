@@ -11,7 +11,7 @@
 - > creates boilerplate with one list widget and one chart widget
 
 
-###Teams channel tab
+### Teams channel tab
 
 some ideas:
 - [Microsoft Teams Dev Docs] (https://learn.microsoft.com/de-de/microsoftteams/platform/tabs/design/tabs)
@@ -25,7 +25,17 @@ some ideas:
 
 - research is needed to figure out if React Beautiful DnD can be implemented inside the Teams Toolkit or if there is a more useful alternative
 
-###Pomodoro Timer as a dashboard widget
+### Pomodoro Timer as a dashboard widget
 
 - [Samples] (https://reactjsexample.com/tag/pomodoro-timer/)
 - [Freshman Pomodoro Timer] (https://freshman.tech/pomodoro-timer/)
+
+### Pomodoro Timer created as Basic Tab with Fluent UI components
+
+- implement Pomodoro Widget as part of the Welcome.tsx file
+- the pomodoro timer:   - consists of three phases (work phase = Pomodoro = 25 min; short break = 5 min; long break = 15 min)
+                        - a short break follows after every Pomodoro; after every fourth Pomodoro phase follows a long break
+                        - the screen shows the remaining time of the work interval or break as a countdown
+                        - you need to be able to start the timer, stop it and skip to the next phase
+  (optional):           - input field to write down the specific task you want to resole during the pomodoro interval
+  
