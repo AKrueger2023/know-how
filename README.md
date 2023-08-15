@@ -38,4 +38,16 @@ some ideas:
                         - the screen shows the remaining time of the work interval or break as a countdown
                         - you need to be able to start the timer, stop it and skip to the next phase
   (optional):           - input field to write down the specific task you want to resole during the pomodoro interval
+
+
+# Using Git in projects
+
+
+- getting current version of project: `git checkout main` -> `git pull`
+- create new branch you can work on +  directly switching to it: `git checkout -b <branch name>`
+- checking on which branch I am currently on: `git status`
+- the feature is ready for reviewing: `git add .` -> `git commit -m "commit message"` -> `git push`
+- if the feature branch is created locally first, you need to set the remote branch as upstream branch: `git push --set-upstream origin <branch name>`
+- (after that create pull request via github.com by directing to the project -> choosing/opening the feature branch -> create pull request (if applicable request particular person to review the code)) 
+
   
